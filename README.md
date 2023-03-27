@@ -1,6 +1,6 @@
 # Merganser
 
-A download manager for websites.
+A simple metronome developed in C++.
 
 # Table of Contents
 
